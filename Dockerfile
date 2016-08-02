@@ -123,6 +123,7 @@ RUN apt-get install -y \
 	python-glade2 \
 	python-tk \
 	netcat-openbsd \
+	libpth-dev \
 	libpth20
 
 # MK deps; not on Ubuntu
